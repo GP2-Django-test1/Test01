@@ -4,6 +4,6 @@
 123123
 sdasd asda
 sadjaldjf 
-变更local
-变更remote
+- 变更local
+- 变更remote
 
